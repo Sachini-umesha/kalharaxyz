@@ -3,103 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/about/</loc>
+    <loc>http://kalhara.xyz/about/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>http://kalhara.xyz/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>http://kalhara.xyz/tags/demo/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>http://kalhara.xyz/posts/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>http://kalhara.xyz/tags/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>http://kalhara.xyz/tags/typography/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kalharaxyz.github.io/kalharaxyz/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>http://kalhara.xyz/posts/typography/</loc>
+    <lastmod>2020-06-01T11:36:33+08:00</lastmod>
   </url>
   
 </urlset>

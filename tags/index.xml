@@ -2,94 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anjula Kalhara</title>
-    <link>https://kalharaxyz.github.io/kalharaxyz/tags/</link>
+    <link>http://kalhara.xyz/tags/</link>
     <description>Recent content in Tags on Anjula Kalhara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 11:36:33 +0800</lastBuildDate>
     
-	<atom:link href="https://kalharaxyz.github.io/kalharaxyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kalhara.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/demo/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      <link>http://kalhara.xyz/tags/demo/</link>
+      <pubDate>Mon, 01 Jun 2020 11:36:33 +0800</pubDate>
       
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/image/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/image/</guid>
+      <guid>http://kalhara.xyz/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      <link>http://kalhara.xyz/tags/typography/</link>
+      <pubDate>Mon, 01 Jun 2020 11:36:33 +0800</pubDate>
       
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/typography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://kalharaxyz.github.io/kalharaxyz/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kalharaxyz.github.io/kalharaxyz/tags/themes/</guid>
+      <guid>http://kalhara.xyz/tags/typography/</guid>
       <description></description>
     </item>
     
